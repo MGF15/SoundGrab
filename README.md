@@ -16,4 +16,4 @@ Note
 
 SnapShot
 -----------------
-![Alt Text](https://raw.githubusercontent.com/MGF15/SoundGrab/master/soundgrab.gif)
+![Alt Text](https://raw.githubusercontent.com/MGF15/SoundGrab/master/soundgrabsnap.gif)
