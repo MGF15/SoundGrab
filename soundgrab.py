@@ -7,8 +7,8 @@ import requests,sys,re
 
 tr  = 'https://api.soundcloud.com/i1/tracks/'
 tr2 = '/streams?client_id='
-id = '02gUJC0hH2ct1EGOcYXQIzRFU91c72Ea' # be careful with this ;) plz !
-ver = '&app_version=1473977693'
+id = 'fDoItMDbsbZz8dY16ZzARCZmzgHBPotA' # be careful with this ;) plz !
+ver = '&app_version=14823339819'
 
 def get(url):
 
@@ -75,5 +75,4 @@ try:
 	down = downmp3(f,f2)
 
 except:
-	print '\n[-] soundgrab.py [trackurl]\n [-] or check on your Internet connection !'
-
+	print '\n[-] soundgrab.py [trackurl]\n[-] or check on your Internet connection !'
