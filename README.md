@@ -1,19 +1,19 @@
 # SoundGrab
-Download mp3 tracks from soundcloud
+Download MP3 tracks from SoundCloud.
 
 Installation
 -----------------
 
-```  pip install requests```
+```pip install requests```
 
-Uasge 
+Usage 
 -----------------
-``` $python soundgrab.py [trackurl]```
+```$ python soundgrab.py <trackurl>```
 
 Note
 -----------------
-####plz use this script to download free tracks !####
+####Please use this script to download free tracks !
 
-SnapShot
+Snapshot
 -----------------
-![Alt Text](https://raw.githubusercontent.com/MGF15/SoundGrab/master/soundgrabsnap.gif)
+!["preview"](https://raw.githubusercontent.com/MGF15/SoundGrab/master/soundgrabsnap.gif)
