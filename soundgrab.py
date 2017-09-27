@@ -7,7 +7,7 @@ import requests, sys, re
 
 tr   = 'https://api.soundcloud.com/i1/tracks/'
 tr2 = '/streams?client_id='
-id  = 'fDoItMDbsbZz8dY16ZzARCZmzgHBPotA' # be careful with this ;) please!
+id  = '5Fs6ZkkdEgn8Ygc7xKYumtor6mrxIhb3' # be careful with this ;) please!
 ver = '&app_version=14823339819'
 
 def get(url):
