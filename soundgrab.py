@@ -27,6 +27,10 @@ def get(url):
 	apidown = tr + trackid + tr2 + id + ver
 
 	getfile = requests.get(apidown).text
+	
+	if getfile == "":
+		print "[-] it seems like client id has expired ! "
+		exit()
 
 	findfile = re.findall(r'http_mp3_128_url":"(.*?)"',getfile) # our download link 
 
